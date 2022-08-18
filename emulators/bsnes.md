@@ -26,7 +26,7 @@ Switch to the Hotkeys tab on the left to bind any desired hotkeys. Note: bsnes d
 
 Open Steam ROM Manager, press Parsers, then enter the following settings:
 
--   Select `Nintendo SNES - bsnes` under Community Presets.
+-   Select `Nintendo SNES - Retroarch(Flatpak) - Beetle bsnes` under Community Presets.
     -   Steam ROM Manager doesn't have a preset for non-RetroArch bsnes, so we're going to modify the RetroArch one.
 -   You can add additional categories to Steam category using the format `${category name}`, this is case-sensitive.
 -   Change configuration title to `Nintendo SNES - bsnes` to make it less confusing.
